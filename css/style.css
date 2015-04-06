@@ -111,6 +111,7 @@ clearfix:after { /* clearfix */
 .js [role="complementary"] {	
 	margin-right: -200%;
 	float: left;
+	z-index: 2;
 }	
 .active-nav [role="navigation"] {	
 	margin-left: 0;	
